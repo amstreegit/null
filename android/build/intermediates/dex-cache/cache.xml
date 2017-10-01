@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\afeaef167c6bba3c7749ee4c83becb209fc7dd47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_6c60a4d921581fcd2d052a9083042bbe69825d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\cbe47d0cb6435163f268dff5d9648a758ae8a066\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_f7602dccb66b8de23b815e9a2276ce9ebdb6a0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3c97d844250fa57e954654e31bf8564c0309c179\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_fc55b9bd624b9a3f49c862f602cdb7bb6dcd84f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3bb113c77b5fe65746f4bce66cfeb75edb4cb665\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_1eb24baeb390f33760e824105f7f97a333da6861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f4bea5f064da9c6555f8e6be48adc11e4177b71b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_d15504966d5bcc8ac78b8bb04cc9f19eb19e28f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_a69735fb31405abb6c5b972e1b2bb4f918f620e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9b769fc3d961f1a2a6ec7f9b898d49a4f1750ac8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_d9e4403710b34ab129e979f800eafb9e2b2049de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a5a2825b34de3f3f7ae9d3d699d30b462eec82a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f904d47530f716d1426d1e61c7998aab64fb3e3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_f87ecd55a97d213c23d2fdacd6d6e865858e5989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\21bbaa84ab1b803bb7a59928089fe6b56fe5daa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_9cff84b9dc40c7c96eb6196ae2c586188cd72969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\95ccbc4f622175205a65cd6f74c0e6ae7ca14c9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_493db88a8dd54f361a29b3f512c706963f3d968b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ad97d3e7bb174d9536c913c917907155e177fffb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_600e11ff4fd4247f24b2959214237d57200c1259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9f88216c6d95ea8e5d94e39b86416e24921f736a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_b70ba70da4d511bd5c0e18110eb652c9a0bca91a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\fae849fa1363afa7a43329e6177a0e553e57597b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_8bf82d35dd8bb85e0441fb2a872404f4065bdd77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_93faf0020ffbfe6dc8aba68c325569cddbb00991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d51bb8fa209765f57f3430d4b8aaa486105b5b36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_4de5808736897ca4cb8a6146596c24169f9acc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d97c58f1e3b1fdb1d270ecce89bc0195507c36b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_2955cf1d6962ef1fe1d0e5fcf55a3e6de10b759d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\08bb52fc1072cb59105878922ee5c11888f6b2c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\classes_e7a8d016495111daf9be25097485e20f8adfc1fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="E:\myAndroidProj\ShopActivity\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha8_cac14b41d54b36e88fcd3599b03266ca1ed98ee4.jar" />
+    </item>
+
+</items>
